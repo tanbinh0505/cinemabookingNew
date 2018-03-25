@@ -41,7 +41,7 @@
       <div class="wrapper">
          <!-- Banner -->
          <div class="banner-top">
-            <img alt='top banner' src="resources/images/banners/bg-404.png">
+            <img alt='top banner' src="movie/download/h11.jpg">
          </div>
          <c:url var="userUrl" value="/user"/>
          <jsp:include page="./templates/header.jsp"></jsp:include>
@@ -255,7 +255,7 @@
                   </li>
                   <li data-transition="fade" data-slotamount="7" class="slide" data-slide='Stop wishing. 
                      Start doing.'>
-                     <img alt='' src="resources/images/banners/ready_1514971830323.jpg">
+                     <img alt='' src="movie/download/h2.jpg">
                      <div class="caption slide__name slide__name--smaller slide__name--specific customin customout" 
                         data-x="left" 
                         data-y="160" 
@@ -299,13 +299,14 @@
             </div>
          </div>
          <!--end slider -->
+
          <!-- Main content -->
          <section class="container">
             <div class="movie-best">
                <div class="col-sm-10 col-sm-offset-1 movie-best__rating">Today Best choice</div>
                <div class="col-sm-12 change--col">
                   <div class="movie-beta__item ">
-                     <img alt='' src="resources/images/cinema/2_1520397193030.jpg">
+                     <img alt='' src="movie/download/h13.jpg">
                      <span class="best-rate">5.0</span>
                      <ul class="movie-beta__info">
                         <li><span class="best-voted">71 people voted today</span></li>
@@ -320,7 +321,7 @@
                      </ul>
                   </div>
                   <div class="movie-beta__item second--item">
-                     <img alt='' src="resources/images/cinema/07-talltales-la_1520834070830.jpg">
+                     <img alt='' src="movie/download/h2.jpg">
                      <span class="best-rate">5.0</span>
                      <ul class="movie-beta__info">
                         <li><span class="best-voted">71 people voted today</span></li>
@@ -335,7 +336,7 @@
                      </ul>
                   </div>
                   <div class="movie-beta__item third--item">
-                     <img alt='' src="resources/images/cinema/100ngaybenem_1520476853185.jpg">
+                     <img alt='' src="movie/download/h16.jpg">
                      <span class="best-rate">5.0</span>
                      <ul class="movie-beta__info">
                         <li><span class="best-voted">71 people voted today</span></li>
@@ -350,7 +351,7 @@
                      </ul>
                   </div>
                   <div class="movie-beta__item hidden-xs">
-                     <img alt='' src="resources/images/cinema/ploey-bay-di-dung-so-2_1521690282861.JPG">
+                     <img alt='' src="movie/download/h7.jpg">
                      <span class="best-rate">5.0</span>
                      <ul class="movie-beta__info">
                         <li><span class="best-voted">71 people voted today</span></li>
@@ -365,7 +366,7 @@
                      </ul>
                   </div>
                   <div class="movie-beta__item hidden-xs hidden-sm">
-                     <img alt='' src="resources/images/cinema/fa-cgv-yebc-poster-chinh--cmyk-7-2_1521779124197.jpg">
+                     <img alt='' src="movie/download/h5.jpg">
                      <span class="best-rate">5.0</span>
                      <ul class="movie-beta__info">
                         <li><span class="best-voted">71 people voted today</span></li>
@@ -380,7 +381,7 @@
                      </ul>
                   </div>
                   <div class="movie-beta__item hidden-xs hidden-sm">
-                     <img alt='' src="resources/images/cinema/xmen_1519696633757.jpg">
+                     <img alt='' src="movie/download/h6.jpg">
                      <span class="best-rate">5.0</span>
                      <ul class="movie-beta__info">
                         <li><span class="best-voted">71 people voted today</span></li>
@@ -501,7 +502,7 @@
                      <div class="movie movie--test movie--test--dark movie--test--left">
                         <div class="movie__images">
                            <a href="movie-page-left" class="movie-beta__link">
-                           <img alt='' src="resources/images/cinema/2_1520397193030.jpg">
+                           <img alt='' src="movie/download/h7.jpg">
                            </a>
                         </div>
                         <div class="movie__info">
@@ -519,7 +520,7 @@
                      <div class="movie movie--test movie--test--light movie--test--left">
                         <div class="movie__images">
                            <a href="movie-page-left" class="movie-beta__link">
-                           <img alt='' src="resources/images/cinema/4_1520396379604.jpg">
+                           <img alt='' src="movie/download/h8.jpg">
                            </a>
                         </div>
                         <div class="movie__info">
@@ -537,7 +538,7 @@
                      <div class="movie movie--test movie--test--light movie--test--right">
                         <div class="movie__images">
                            <a href="movie-page-left" class="movie-beta__link">
-                           <img alt='' src="resources/images/cinema/07-talltales-la_1520834070830.jpg">
+                           <img alt='' src="movie/download/h13.jpg">
                            </a>
                         </div>
                         <div class="movie__info">
@@ -555,7 +556,7 @@
                      <div class="movie movie--test movie--test--dark movie--test--right">
                         <div class="movie__images">
                            <a href="movie-page-left" class="movie-beta__link">
-                           <img alt='' src="resources/images/cinema/11h-officialposter-mar02-50cm-x-70cm1_1521778168696.jpg">
+                           <img alt='' src="movie/download/h2.jpg">
                            </a>
                         </div>
                         <div class="movie__info">
